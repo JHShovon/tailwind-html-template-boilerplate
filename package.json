@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-html-template-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./tailwind.css -o ./assets/css/style.css --watch",
+    "build": "tailwindcss -o ./assets/css/style.min.css --minify"
+  },
+  "keywords": [],
+  "author": "Jaber Hossain Shovon",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
