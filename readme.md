@@ -26,7 +26,7 @@ git clone https://github.com/JHShovon/tailwind-html-template-boilerplate.git
 2. Navigate to the project folder:
 
 ```bash
-cd your-repo
+cd tailwind-html-template-boilerplate
 ```
 
 3. Install the dependencies using Yarn:
