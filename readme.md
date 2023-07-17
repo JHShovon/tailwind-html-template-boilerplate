@@ -1,6 +1,6 @@
 # Tailwind HTML Template Boilerplate
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JHShovon/tailwind-html-template-boilerplate/blob/main/LICENSE)
 
 A starter template for building web projects using Tailwind CSS.
 
@@ -20,13 +20,13 @@ A starter template for building web projects using Tailwind CSS.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/JHShovon/tailwind-html-template-boilerplate.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd your-repo
+cd tailwind-html-template-boilerplate
 ```
 
 3. Install the dependencies using Yarn:
