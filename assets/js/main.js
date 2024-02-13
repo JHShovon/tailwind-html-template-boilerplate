@@ -1,0 +1,11 @@
+"use strict";
+
+/* ::::::::::::::::::::
+:: GLobal Javascript ::
+::::::::::::::::::::::: */
+
+// ==== Sticky Menu ====
+window.addEventListener("scroll", function () {
+  let header = document.querySelector("header");
+  header.classList.toggle("scrolling", window.scrollY > 0);
+});
