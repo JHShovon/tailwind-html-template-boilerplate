@@ -1,4 +1,4 @@
-# ⚡ Tailwind HTML Template Boilerplate
+# ⚡ Tailwind HTML Template Boilerplate v-3
 
 <div align="center">
 
